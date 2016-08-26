@@ -1,8 +1,8 @@
-# WARNING: TORTLE HAS BEEN DISCONTINUED. SORRY FOR THOSE WHO USE IT. TORTLE WILL STILL BE AVAILABLE FOR YOU TO FORK, RECREATE, FIX, AND EXPERIMENT WITH. ALL LICENSING HAS BEEN REMOVED AND TORTLE CAN BE REDISTRIBUTED HOWEVER YOU WANT.
-
 # homebrew-Tortle
 ### A tiny utility for easily enabling or disabling Tor on OS X
 Go [here](https://thrifus.github.io/Tortle) for more information.
+
+### Tortle can now be installed with or without Homebrew's version of Tor. Use `--with-tor`.
 
 ### License
 NO LICENSE
